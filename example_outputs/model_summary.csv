@@ -1,0 +1,2 @@
+best_C,locked_threshold,n_candidate_genes,n_final_selected_genes,preprocessing
+0.1,0.6085649775119196,40,13,log2(TPM+1) + training-reference quantile normalization + z-score
